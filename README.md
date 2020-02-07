@@ -1,2 +1,1 @@
-# newsApiProject
-News api project
+Visit https://vinhebbar.github.io/NewsApi/ to see the page
